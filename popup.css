@@ -1,0 +1,16 @@
+html, 
+main {
+  margin: auto;
+  border-radius: 5px;
+  border: 3px solid rgb(22, 89, 165);
+  background-color: #f2f0f0;
+}
+input[type=submit] {
+  background-color: #ffffff;
+  border: 3px solid rgb(22, 89, 165);
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 250px;
+  height: 120px;
+}
